@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,7 +51,7 @@
           
     <img src="https://www.comprarbanderas.es/images/banderas/400/1624-espana-escudo-reyes-catolicos_400px.jpg">
       
-    </main><footer class="site-footer h-card">
+    <footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
 
   <div class="wrapper">
@@ -75,6 +75,4 @@
   </div>
 
 </footer>
-</body>
 
-</html>
