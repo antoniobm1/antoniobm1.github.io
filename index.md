@@ -49,7 +49,7 @@
 
     <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
           
-    <img src="https://www.comprarbanderas.es/images/banderas/400/1624-espana-escudo-reyes-catolicos_400px.jpg"></div>
+    <img src="https://www.comprarbanderas.es/images/banderas/400/1624-espana-escudo-reyes-catolicos_400px.jpg">
       
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
